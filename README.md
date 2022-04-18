@@ -2,3 +2,5 @@
 
 The Following are the best Explained ways of what , How about Outlier Dectection
 1. [5 Ways to Detect Outliers/Anomalies That Every Data Scientist Should Know (Python Code)](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
+2. [Top 3 Python Packages for Outlier Detection](https://towardsdatascience.com/top-3-python-packages-for-outlier-detection-2dc004be9014)
+3. 3. [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)
